@@ -28,6 +28,7 @@ import com.journeyapps.barcodescanner.DecoratedBarcodeView;
 
 import java.util.List;
 
+//THIS IS DIFFERENT 
 
 public class MainActivity extends AppCompatActivity {
     //https://medium.com/@peeyush.pathak18/qr-code-barcode-scanning-in-android-app-a84d290fffad
